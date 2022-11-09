@@ -10,7 +10,7 @@
 
 - ⚡  Focused on **JavaScript, HTML, CSS, SQL, Node.JS**
 
-- 👨‍💻 More at [mikaelgallucci.com](https://mikaelgallucci.com)
+- 👨‍💻 More at [mikaelgallucci.dev](https://mikaelgallucci.dev)
 
 
 <br><br>
