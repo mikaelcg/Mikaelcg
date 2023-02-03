@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at [RFA Labs](https://www.rfalabs.ca/)
 
-- ⚡  Focused on **JavaScript, HTML, CSS, SQL, Node.JS**
+- ⚡  Focused on **Front-end Development => JavaScript, HTML, CSS/SASS, Vue.js, React, NX / Back-end Development => Node.JS, Java, PHP, SQL**
 
 - 👨‍💻 More at [mikaelgallucci.dev](https://mikaelgallucci.dev)
 
