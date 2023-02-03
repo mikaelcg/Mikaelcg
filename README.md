@@ -6,7 +6,7 @@
 
 - 🔥 Sênior Web Developer
 
-- 🔭 I’m currently working at [Escriba informática](https://escriba.com.br/)
+- 🔭 I’m currently working at [RFA Labs](https://www.rfalabs.ca/)
 
 - ⚡  Focused on **JavaScript, HTML, CSS, SQL, Node.JS**
 
