@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mikaelcg&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sênior Web Developer
+- 🔥 Web Developer
 
 - 🔭 I’m currently working at [RFA Labs](https://www.rfalabs.ca/)
 
