@@ -27,7 +27,7 @@ const mikael = {
 
 - 🔨 Currently working at [RFA](https://www.rfa.ca/)
 - 🎯 Specializing in **full-stack development** with modern JavaScript/TypeScript stacks
-- 📚 Always learning, currently diving deeper into **system design patterns**
+- 📚 Always learning!
 
 ---
 
