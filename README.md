@@ -17,7 +17,7 @@ const mikael = {
   role: "Senior Software Engineer @ RFA Labs",
   location: "Curitiba, Brazil 🇧🇷",
   experience: "6+ years",
-  currentFocus: ["Full-Stack Development", "Mortgage Tech", "Temporal Workflows"],
+  currentFocus: ["Full-Stack Development", "Temporal Workflows"],
   interests: ["System Architecture", "Performance Optimization", "Developer Experience"],
   funFact: "I debug code faster than I debug my life decisions ⚽️"
 };
